@@ -7,7 +7,6 @@
             "email": "bsetiawan88@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Bagus\\HtmlDomParser\\": "src/"
