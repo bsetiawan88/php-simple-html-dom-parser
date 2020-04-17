@@ -5,11 +5,11 @@ namespace Bagus\HtmlDomParser;
 class HtmlDomParser
 {
 	
-	static public function file_get_html() {
+	static public function file_get_html($src) {
 		return file_get_html($src);
 	}
 
-	static public function str_get_html() {
+	static public function str_get_html($src) {
 		return str_get_html($src);
 	}
 	
