@@ -1,6 +1,9 @@
 {
     "name": "bagus/php-simple-html-dom-parser",
     "type": "library",
+	"require": {
+        "php": "^5.3 || ^7.0"
+    },
     "authors": [
         {
             "name": "Bagus Pribadi Setiawan",
