@@ -1,0 +1,20 @@
+{
+    "name": "bagus/php-simple-html-dom-parser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bagus Pribadi Setiawan",
+            "email": "bsetiawan88@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Bagus\\HtmlDomParser\\": "src/"
+        }
+    },
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/bsetiawan88/php-simple-html-dom-parser"
+    }]
+}
